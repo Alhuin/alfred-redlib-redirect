@@ -1,2 +1,2 @@
 # alfred-redlib-redirect
-Redirect reddit urls to an available redlib instance
+An Alfred workflow handling the redirection of reddit urls to an available redlib instance
